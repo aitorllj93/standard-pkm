@@ -1,0 +1,10 @@
+{
+  "promptDelete": true,
+  "attachmentFolderPath": "Media",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "showUnsupportedFiles": true,
+  "trashOption": "local",
+  "showInlineTitle": false
+}

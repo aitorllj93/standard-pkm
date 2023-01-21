@@ -1,0 +1,202 @@
+{
+  "TagSettings": [
+    {
+      "attributes": {
+        "prefix": null,
+        "nest-tag": "True",
+        "remove-tag-name": "False",
+        "background-color": "#865da3",
+        "text-color": "#ffffff"
+      },
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 0
+      },
+      "name_": "types"
+    },
+    {
+      "attributes": {
+        "background-color": "#00a8a8",
+        "text-color": "#ffffff",
+        "nest-tag": "True"
+      },
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 1
+      },
+      "name_": "status"
+    },
+    {
+      "attributes": {
+        "nest-tag": "True",
+        "background-color": "#c9246f",
+        "text-color": "#ffffff"
+      },
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": 2
+      },
+      "name_": "project"
+    }
+  ],
+  "GlobalTagSetting": {
+    "attributes": {},
+    "opened": false,
+    "enableList_": {}
+  },
+  "UseTagDetail": false,
+  "StoreTagDetailInYaml": "plugin",
+  "TagDetailData": {
+    "Notes/Getting Started.md": [],
+    "Notes/Everything is a note.md": []
+  },
+  "MetaFileTagDetails": {
+    "Notes/Structuring my Second Brain.md": [
+      "#types/MoC-5-0-71",
+      "#status/draft-5-12-83",
+      "#project/standard-pkm-5-27-98"
+    ],
+    "Notes/2023-01-21 Sat.md": [
+      "#types/daily-5-0-181",
+      "#status/needs-review-5-13-194"
+    ],
+    "Notes/ADHD is a lie.md": [
+      "#types/idea-5-0-74",
+      "#status/draft-5-13-87"
+    ],
+    "Notes/Artem Kirsanov - My simple note-taking setup.md": [
+      "#types/reference-1-0-48",
+      "#status/needs-review-1-17-65"
+    ],
+    "Notes/Dabi - Obsidian as a Second Brain.md": [
+      "#types/reference-1-0-36",
+      "#status/needs-review-1-17-53"
+    ],
+    "Notes/Rubén Loan - Tomar Notas de esta forma me ha Cambiado la Vida.md": [
+      "#types/reference-1-0-58",
+      "#status/needs-review-1-17-75"
+    ],
+    "Templates/Dream.md": [
+      "#types/dream-5-0-78",
+      "#status/draft-5-13-91"
+    ],
+    "Templates/Extract.md": [
+      "#types/extract-5-0-81",
+      "#status/draft-5-15-96"
+    ],
+    "Templates/Memory.md": [
+      "#types/memory-1-0-22",
+      "#status/draft-1-14-36"
+    ],
+    "Templates/Month Summarize.md": [
+      "#types/month-summarize-5-0-81",
+      "#status/draft-5-24-105"
+    ],
+    "Templates/Reference.md": [
+      "#types/reference-5-0-81",
+      "#status/draft-5-18-99"
+    ],
+    "Templates/Week Review.md": [
+      "#types/week-review-5-0-81",
+      "#status/draft-5-20-101"
+    ],
+    "Templates/Year Plan.md": [
+      "#types/year-plan-5-0-81",
+      "#status/draft-5-18-99"
+    ],
+    "Notes/Prefer links over tags.md": [
+      "#types/idea-5-0-84",
+      "#status/draft-5-13-97",
+      "#project/standard-pkm-5-28-112"
+    ],
+    "Journal/2023-01-21 Sat.md": [
+      "#types/daily-5-0-185",
+      "#status/needs-review-5-13-198"
+    ],
+    "Notes/Use dataview text fields.md": [
+      "#types/idea-1-0-29",
+      "#status/draft-1-12-41"
+    ],
+    "Bibliography/Artem Kirsanov - My simple note-taking setup.md": [
+      "#types/reference-1-0-48",
+      "#status/needs-review-1-17-65"
+    ],
+    "Notes/Don't use the File Explorer.md": [
+      "#types/idea-5-0-89",
+      "#status/draft-5-13-102",
+      "#project/standard-pkm-5-28-117"
+    ],
+    "Templates/Idea.md": [
+      "#types/idea-5-0-81",
+      "#status/draft-5-13-94"
+    ],
+    "Templates/Map of Content.md": [
+      "#types/MoC-4-0-62",
+      "#status/draft-4-12-74"
+    ],
+    "Templates/Person.md": [
+      "#types/person-5-0-81",
+      "#status/draft-5-14-95"
+    ],
+    "Notes/Core Concepts.md": [
+      "#types/MoC-5-0-74",
+      "#status/draft-5-12-86",
+      "#project/standard-pkm-5-27-101"
+    ],
+    "Notes/Templates.md": [
+      "#types/idea-5-0-71",
+      "#status/draft-5-13-84",
+      "#project/standard-pkm-5-28-99"
+    ],
+    "Notes/Use dataview inline fields.md": [
+      "#types/idea-5-0-88",
+      "#status/draft-5-13-101",
+      "#project/standard-pkm-5-28-116"
+    ],
+    "Notes/Everything is a note.md": [
+      "#types/idea-5-0-82",
+      "#status/draft-5-13-95",
+      "#project/standard-pkm-5-28-110",
+      "#status/re-9-393-689"
+    ],
+    "Notes/Do's and Dont's.md": [
+      "#types/MoC-5-0-76",
+      "#status/draft-5-12-88",
+      "#project/standard-pkm-5-27-103"
+    ],
+    "Notes/Getting Started.md": [
+      "#types/idea-5-0-77",
+      "#status/draft-5-13-90"
+    ],
+    "Journal/2023-01-19 Thu.md": [
+      "#types/daily-5-0-185",
+      "#status/needs-review-5-13-198"
+    ],
+    "Journal/2023-01-20 Fri.md": [
+      "#types/daily-5-0-183",
+      "#status/needs-review-5-13-196"
+    ],
+    "Templates/Daily.md": [
+      "#types/daily-5-0-254",
+      "#status/needs-review-5-14-268"
+    ],
+    "Notes/Standard PKM.md": [
+      "#types/idea-5-0-74",
+      "#status/draft-5-13-87",
+      "#project/standard-pkm-5-28-102",
+      "#project/standard-pkm-8-268-1014"
+    ]
+  }
+}
