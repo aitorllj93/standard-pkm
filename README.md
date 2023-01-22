@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/aitorllj93/standard-pkm/main/Media/StandardPKM.png)
+
 # Standard PKM
 
 Obsidian base for Personal Knowledge Management (PKM) vaults.
